@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name_game">HackingGamePrototype</string>
+    <string name="app_name_login">HackingGamePrototype</string>
+    <string name="app_name_find">HackingGamePrototype</string>
+    <string name="app_name_pre">HackingGamePrototype</string>
+    <string name="app_name_post">HackingGamePrototype</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
